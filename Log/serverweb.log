@@ -1,0 +1,44 @@
+INFO:__main__:Server started at localhost:443
+INFO:root:Thread LoggingThread: starting
+WARNING:__main__:Deamon has started !
+INFO:root:Thread LoggingThread: finishing
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:Server started at localhost:443
+INFO:root:Thread LoggingThread: starting
+WARNING:__main__:Deamon has started !
+INFO:root:Thread LoggingThread: finishing
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:Server started at localhost:443
+INFO:root:Thread LoggingThread: starting
+WARNING:__main__:Deamon has started !
+INFO:root:Thread LoggingThread: finishing
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !
+INFO:__main__:<class '__main__.MyHttpRequestHandler'>
+INFO:__main__:MyHttpRequestHandler has started !

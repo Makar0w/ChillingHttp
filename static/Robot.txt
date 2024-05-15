@@ -1,0 +1,9 @@
+User-agent:*
+Disallow: /*?
+Disallow: /three.r134.min.js
+Disallow: /vanta.fog.min.js
+Disallow: /styles.css
+Disallow: /index.html
+Disallow: /favicon.ico
+Disallow: /Robot.txt
+Allow: /
