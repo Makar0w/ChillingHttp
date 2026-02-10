@@ -22,3 +22,5 @@ Customizable port and static file location via command-line arguments
 Built-in warning for privileged ports (<1024)
 
 Simple logging to Log/serverweb.log
+
+# Please do not use that for any form of prod (only testing)
