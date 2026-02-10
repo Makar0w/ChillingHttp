@@ -1,2 +1,2 @@
-pip install -r requirements
+pip install -r requirements.txt
 start starting.bat
